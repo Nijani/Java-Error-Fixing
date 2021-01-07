@@ -5,3 +5,6 @@ A JNI error has occurred (Java Native Interface)
 Running jdk or jre
 //Preference -> Java -> Installed JRE -> add JDK folder and select it
 
+Reading nextline
+//String s = sc.next();
+//s += sc.nextLine();
